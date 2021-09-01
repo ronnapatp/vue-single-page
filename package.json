@@ -7,7 +7,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.2.6"
+    "@headlessui/vue": "^1.4.1",
+    "vue": "^3.2.6",
+    "vue-heroicons": "^0.9.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.6.0",
